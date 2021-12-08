@@ -1,5 +1,5 @@
 <template>
-  <h2>游戏推荐<a href="https://www.dongjizupai.com/wp-admin">性感沙滩合集</a></h2>
+  <h2>游戏推荐<a href="https://www.dongjizupai.com">性感沙滩合集</a></h2>
   <HelloWorld />
 </template>
 
